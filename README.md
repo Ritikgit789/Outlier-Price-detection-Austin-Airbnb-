@@ -8,3 +8,4 @@ Skills & Tools: Utilized Python (Pandas, NumPy, Matplotlib, Seaborn), statistica
 Results: Identified significant pricing anomalies, highlighting underpriced and overpriced listings. Insights from the analysis can help hosts align their prices with market trends, improving profitability and customer satisfaction.
 
 
+
