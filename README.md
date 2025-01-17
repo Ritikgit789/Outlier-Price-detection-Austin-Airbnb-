@@ -12,5 +12,4 @@ Results: Identified significant pricing anomalies, highlighting underpriced and 
 
 ![Plottings of roomtype vs price](https://raw.githubusercontent.com/Ritikgit789/Outlier-Price-detection-Austin-Airbnb-/main/roomtypevsprice.png "Room type vs prices")
 
-![Plottings of output_reviews_score_rating vs price](https://raw.githubusercontent.com/Ritikgit789/Outlier-Price-detection-Austin-Airbnb-/main/output_reviews_score_rating.png "Output Reviews score")
 
